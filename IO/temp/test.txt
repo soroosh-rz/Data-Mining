@@ -1,0 +1,9 @@
+ prgtype gender  id ses schtyp level 
+ general      0  70   4      1     1
+  vocati      1 121   4      2     1
+ general      0  86   4      3     1
+  vocati      0 141   4      3     1
+academic      0 172   4      2     1
+academic      0 113   4      2     1
+ general      0  50   3      2     1
+academic      0  11   1      2     1
